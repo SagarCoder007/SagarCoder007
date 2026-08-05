@@ -1,3 +1,19 @@
+<!-- Animated Typing Banner -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?..."/>
+</p>
+
+<h1 align="center">Hi 👋 I'm Sagar Varma</h1>
+
+<h3 align="center">
+AI Engineer • Full Stack Developer • Azure Cloud Enthusiast
+</h3>
+
+<p align="center">
+Passionate about building AI-powered applications, scalable backend systems, and modern web experiences.
+</p>
+
 # 💻 Tech Stack
 
 <p align="center">
