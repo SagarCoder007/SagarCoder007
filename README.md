@@ -1,3 +1,7 @@
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=SagarCoder007&show_icons=true&theme=tokyonight&hide_border=true)
+
 # Hi 👋 I'm Sagar Varma
 
 🚀 AI Engineer | Full Stack Developer | Cloud & Azure Enthusiast
