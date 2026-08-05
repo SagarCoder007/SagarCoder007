@@ -1,4 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm Sagar Varma
+
+🚀 AI Engineer | Full Stack Developer | Cloud & Azure Enthusiast
+
+💻 Building AI Agents, RAG Systems & Modern Web Applications
+
+🌱 Currently Learning
+- Azure AI
+- Machine Learning
+- Deep Learning
+- LangChain
+- FastAPI
+
+⚡ Tech Stack
+
+Python • JavaScript • React • Next.js • Node.js
+FastAPI • Azure • OpenAI • MongoDB
+Docker • Git • AWS • SQL
+
+📫 Connect with me
+
+LinkedIn
+Portfolio
+Email
 
 <!--
 **SagarCoder007/SagarCoder007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
